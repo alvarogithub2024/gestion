@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Card 1",
+    "type": "Mitos",
+    "power": 5,
+    "defense": 2,
+    "flavorText": "This is a sample card description for Card 1."
+  },
+  {
+    "name": "Card 2",
+    "type": "Leyendas",
+    "power": 6,
+    "defense": 3,
+    "flavorText": "This is a sample card description for Card 2."
+  }
+]
